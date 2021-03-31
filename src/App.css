@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  height: 300px;
+  width: 300px;
+  border: 2px solid yellow;
+}
+img{
+  height: 200px ;
+  width:200px;
+}
+.container{
+  height: 400px;
+  width: 900px;
+  border: 2px solid red;
+}
